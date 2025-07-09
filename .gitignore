@@ -1,0 +1,8 @@
+﻿*.tar.gz
+*.exe
+*.msi
+__pycache__/
+*.pyc
+prometheus-*/
+node_exporter-*/
+windows_exporter-*
