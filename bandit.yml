@@ -1,0 +1,5 @@
+# bandit.yml
+
+skips:
+  - B101  # Example: skip assert statements warning
+
